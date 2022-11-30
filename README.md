@@ -1,4 +1,17 @@
 # Moveo
+## 스크린샷
+<img width="293" alt="스크린샷 2022-11-30 오후 10 48 21" src="https://user-images.githubusercontent.com/111134273/204813239-8889aadb-e40b-4bf3-851e-cb534bf8f46a.png"> <img width="293" alt="스크린샷 2022-11-30 오후 10 48 30" src="https://user-images.githubusercontent.com/111134273/204813292-64ff5302-c3c1-4423-88c8-19a78c405147.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 48 36" src="https://user-images.githubusercontent.com/111134273/204813331-a4304e52-4747-494f-af48-4ac2a1d73ad3.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 48 40" src="https://user-images.githubusercontent.com/111134273/204813352-f0b83be5-21f2-4c8c-9338-6a37962b38b8.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 48 44" src="https://user-images.githubusercontent.com/111134273/204813372-40686f93-7d5d-4873-976e-ed9370f5633d.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 48 49" src="https://user-images.githubusercontent.com/111134273/204813384-da671906-f221-47bc-9efc-6b58d01fb5aa.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 48 55" src="https://user-images.githubusercontent.com/111134273/204813395-f67fa841-d630-4941-bec9-b1dfe14fa8f3.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 49 02" src="https://user-images.githubusercontent.com/111134273/204813400-c70d805e-ab9b-42ac-89cd-351c67ab31a1.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 49 10" src="https://user-images.githubusercontent.com/111134273/204813409-e8b74d89-a689-45fe-974d-2af3f6bb29c3.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 49 15" src="https://user-images.githubusercontent.com/111134273/204813418-d2609390-f77c-46ef-9d9c-c716440a5177.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 49 21" src="https://user-images.githubusercontent.com/111134273/204813425-58b66d02-1a80-45ac-8b47-60cd438e0a64.png">
+
+
 #
 ## 목표: 동기부여를 위한 경험 공유 SNS
 ### 시간을 낭비하는 sns가 아닌 오직 동기부여를 얻기위한 sns
@@ -43,10 +56,6 @@
 #
 ## 이 앱의 가치는 어디에 있을까요? 다음의 예시를 참고해 더 자세히 적어주세요
 ### 시간을 버리는 sns가 아닌 오로지 자기계발에 집중한 sns
-#
-## 활용한 기술
-#
-## 스크린샷
 #
 ## 참여자
 ### 진준호(11조) 이종현(11조) 임재혁(8조) 기태욱(4조) 박상호(3조)

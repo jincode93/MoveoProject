@@ -1,7 +1,21 @@
 # Moveo - mvp
 
 ## 스크린샷
-[loginView](https://user-images.githubusercontent.com/111134273/208884245-54e551f7-d69a-4100-b3af-f5f9e9387658.png)
+### 로그인뷰
+![loginView](https://user-images.githubusercontent.com/111134273/209560851-08f8d58d-e6d6-4107-948f-2350f92df0eb.png)
+
+### 메인뷰
+![mainView](https://user-images.githubusercontent.com/111134273/209560873-50acb274-70f4-45b3-ac38-d3f9014d5072.png)
+
+### 피드뷰
+![feedView](https://user-images.githubusercontent.com/111134273/209560899-e7bcc51e-2ed4-4b5e-a0f1-10072e5f9278.png)
+
+### 서치뷰
+![searchView](https://user-images.githubusercontent.com/111134273/209560910-c7e6becf-7502-42a1-a447-929c1ceb6dd8.png)
+
+### 프로필뷰
+![profileView](https://user-images.githubusercontent.com/111134273/209560924-e668452d-e95d-4942-bd2f-ce70c40b01d4.png)
+
 
 # Moveo - proto
 
